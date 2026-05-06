@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the national fruit of India?",
+        "options": ["1. Mango", "2. Apple", "3. Orange", "4. Banana"],
+        "answer": 1
+    },
+    {
+        "question": "What is the largest land animal?",
+        "options": ["1. Giraffe", "2. Rhino", "3. Elephant", "4. Lion"],
+        "answer": 3
+    },
+    {
+        "question": "Which country is called The Land of Rising Sun?",
+        "options": ["1. China", "2. Japan", "3. Korea", "4. Australia"],
+        "answer": 2
+    },
+    {
+        "question": "Which planet is called the Red Planet?",
+        "options": ["1. Mercury", "2. Venus", "3. Mars", "4. Earth"],
+        "answer": 3
+    }
+]
